@@ -78,4 +78,4 @@ Follow these steps to explore the project:
    git clone https://github.com/your-username/mumps-statistical-methods.git
 ## 👥 Contributors
 - 👤 Mohit Jadhav
-- 👤 Romit Suryvanshi
+- 👤 Pavan Kaulapure
