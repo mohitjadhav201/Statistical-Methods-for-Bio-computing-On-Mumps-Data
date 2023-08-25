@@ -1,7 +1,5 @@
 # Statistical Methods for Bio-computing on Mumps Data
 
-![Project Banner](project_banner.png) <!-- If you have a project banner or logo -->
-
 Welcome to the repository for the project "Statistical Methods for Bio-computing on Mumps Data." In this project, we explore the application of statistical methods to analyze and interpret Mumps data in the field of bio-computing. This README provides an overview of the project, the data used, the steps taken, and the methodologies applied.
 
 ## 📊 Data
