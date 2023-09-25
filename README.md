@@ -69,13 +69,6 @@ Our project unfolds through the following steps:
 - ape
 - markovchain
 
-## 🚀 Usage
-
-Follow these steps to explore the project:
-
-1. Clone this repository:
-   ```sh
-   git clone https://github.com/your-username/mumps-statistical-methods.git
 ## 👥 Contributors
 - 👤 Mohit Jadhav
 - 👤 Pavan Kaulapure
